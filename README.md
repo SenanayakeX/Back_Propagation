@@ -1,4 +1,4 @@
-# ⭐Back_Propagation
+# ⭐Back Propagation
 
 Backpropagation is a supervised learning algorithm used in training artificial neural networks. It is a method for calculating the gradients of the loss function with respect to the network's weights, which are then used to update the weights in the direction that minimizes the loss. This process is repeated multiple times, allowing the network to gradually improve its predictions until a satisfactory level of accuracy is achieved. Backpropagation is a key component in the training of deep learning models and is widely used in various applications, including image classification, speech recognition, and natural language processing.
 
